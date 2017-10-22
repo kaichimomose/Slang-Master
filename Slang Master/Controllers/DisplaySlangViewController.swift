@@ -22,7 +22,7 @@ class DisplaySlangViewController: UIViewController, SlangDelegate {
     
     static let slangs = [
         Slang(word: "Dope", mean: "awsome", image: "dope"),
-        Slang(word: "Dank", mean: "cool", image: "dope" ),
+        Slang(word: "Dank", mean: "cool", image: "dank" ),
         Slang(word: "To Flake", mean: "To ditch", image: "flake"),
         Slang(word: "Bumpin'", mean: "enjoying litening music", image: "bumpin"),
         Slang(word: "Wildin'out", mean: "acting crazy",image: "wildinout")
