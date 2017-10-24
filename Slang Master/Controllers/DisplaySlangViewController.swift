@@ -25,7 +25,8 @@ class DisplaySlangViewController: UIViewController, SlangDelegate {
         Slang(word: "Dank", mean: "cool", image: "dank" ),
         Slang(word: "To Flake", mean: "To ditch", image: "flake"),
         Slang(word: "Bumpin'", mean: "enjoying litening music", image: "bumpin"),
-        Slang(word: "Wildin'out", mean: "acting crazy",image: "wildinout")
+        Slang(word: "Wildin'out", mean: "acting crazy",image: "wildinout"),
+        Slang(word: "Clutch", mean: "performing under pressure", image: "clutch")
     ]
     
     static func randomSlang() -> Slang {

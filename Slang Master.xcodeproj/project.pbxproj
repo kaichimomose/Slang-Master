@@ -14,6 +14,7 @@
 		BF39BCCD1F9BF33900D7E7BD /* bumpin.gif in Resources */ = {isa = PBXBuildFile; fileRef = BF39BCCC1F9BF33900D7E7BD /* bumpin.gif */; };
 		BF39BCCF1F9BF40B00D7E7BD /* wildinout.gif in Resources */ = {isa = PBXBuildFile; fileRef = BF39BCCE1F9BF40B00D7E7BD /* wildinout.gif */; };
 		BF39BCD11F9D3BB800D7E7BD /* dank.gif in Resources */ = {isa = PBXBuildFile; fileRef = BF39BCD01F9D3BB700D7E7BD /* dank.gif */; };
+		BF7CAF9F1F9F834D0064F0A2 /* clutch.gif in Resources */ = {isa = PBXBuildFile; fileRef = BF7CAF9E1F9F834D0064F0A2 /* clutch.gif */; };
 		BFE0084C1F99169A00968E02 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE0084B1F99169A00968E02 /* AppDelegate.swift */; };
 		BFE008541F99169A00968E02 /* Slang_Master.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BFE008521F99169A00968E02 /* Slang_Master.xcdatamodeld */; };
 		BFE008561F99169A00968E02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE008551F99169A00968E02 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 		BF39BCCC1F9BF33900D7E7BD /* bumpin.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bumpin.gif; sourceTree = "<group>"; };
 		BF39BCCE1F9BF40B00D7E7BD /* wildinout.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wildinout.gif; sourceTree = "<group>"; };
 		BF39BCD01F9D3BB700D7E7BD /* dank.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dank.gif; sourceTree = "<group>"; };
+		BF7CAF9E1F9F834D0064F0A2 /* clutch.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = clutch.gif; sourceTree = "<group>"; };
 		BFE008481F99169A00968E02 /* Slang Master.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Slang Master.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFE0084B1F99169A00968E02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFE008531F99169A00968E02 /* Slang_Master.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Slang_Master.xcdatamodel; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 		BF39BCC71F9BEE1600D7E7BD /* Gif */ = {
 			isa = PBXGroup;
 			children = (
+				BF7CAF9E1F9F834D0064F0A2 /* clutch.gif */,
 				BF39BCD01F9D3BB700D7E7BD /* dank.gif */,
 				BF39BCCE1F9BF40B00D7E7BD /* wildinout.gif */,
 				BF39BCCC1F9BF33900D7E7BD /* bumpin.gif */,
@@ -238,6 +241,7 @@
 				BFE008661F99184F00968E02 /* Main.storyboard in Resources */,
 				BFE008591F99169A00968E02 /* LaunchScreen.storyboard in Resources */,
 				BF39BCCB1F9BF2EC00D7E7BD /* flake.gif in Resources */,
+				BF7CAF9F1F9F834D0064F0A2 /* clutch.gif in Resources */,
 				BFE008561F99169A00968E02 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
